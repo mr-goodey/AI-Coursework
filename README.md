@@ -1,1 +1,2 @@
-# AI-Coursework
+# AI
+AI Methods courseworks
